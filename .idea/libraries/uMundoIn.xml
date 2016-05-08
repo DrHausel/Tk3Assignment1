@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="uMundoIn">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/uMundo" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/uMundo" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/uMundo" />
+    </SOURCES>
+  </library>
+</component>
